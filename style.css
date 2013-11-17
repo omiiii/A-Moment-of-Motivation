@@ -1,0 +1,54 @@
+body {
+	margin:0px;
+	background-size:1400px auto;
+	overflow:hidden;
+	text-align:center;
+}
+
+img {
+	width:200px;
+	margin-top:200px;
+	height:auto;
+}
+
+#header {
+	text-align:center;
+}
+
+#header h1 {
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 120px;
+	color: white;
+	margin: 0;
+	padding: 0;
+	font-weight:400;
+	text-shadow: 1px 1px 1px #000;
+}
+
+#header h2 {
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 50px;
+	color: white;
+	font-weight:400;
+	margin: 0;
+	padding: 0;
+	text-shadow: 1px 1px 1px #000;
+}
+
+#quote {
+	height: 400px;
+	margin:0 10%;
+	padding-top:3%;
+	text-align: center;
+}
+
+#quote p {
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 65px;
+	color: white;
+	margin: 0;
+	padding: 0;
+	text-shadow: 1px 1px 1px #000;
+}
+
+
